@@ -1,5 +1,7 @@
 # JOHNNY.AI - Swiss Market Oracle 🎩
 
+https://johnnyai.io/
+
 https://x.com/Johnny__AI
 
 Elite market intelligence powered by verifiable autonomous AI. Track institutional flows and spot smart money movements before the crowd.
