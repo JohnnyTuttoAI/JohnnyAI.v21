@@ -1,0 +1,20 @@
+/* Swiss Grid System */
+.swiss-grid {
+  background-size: 50px 50px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+}
+
+.swiss-container {
+  max-width: 2560px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Swiss Spacing System */
+.swiss-space-1 { margin: 0.25rem; }
+.swiss-space-2 { margin: 0.5rem; }
+.swiss-space-3 { margin: 1rem; }
+.swiss-space-4 { margin: 2rem; }
+.swiss-space-5 { margin: 4rem; }
